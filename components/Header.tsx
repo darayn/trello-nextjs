@@ -32,6 +32,7 @@ function Header() {
           width={300}
           height={100}
           className="w-44 md:w-56 pd-10 md: pb-0 object-contain"
+          priority={true}
         />
 
         <div className="flex items-center space-x-5 flex-1 justify-end w-full">
